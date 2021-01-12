@@ -1,1 +1,2 @@
-1	1	1 master commit 2 from git2
+GIT 2:
+master commit 1
